@@ -6,6 +6,7 @@
       {
         "id": "dc32bd925b1fa8c3",
         "type": "split",
+        "dimension": 64.71518987341773,
         "children": [
           {
             "id": "6e17159cde1eb97d",
@@ -17,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Инструменты/Словарь тегов.md",
+                    "file": "Инструменты/Кастомные чекбоксы.md",
                     "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Словарь тегов"
+                  "title": "Кастомные чекбоксы"
                 }
               }
             ]
@@ -53,6 +54,7 @@
       {
         "id": "50e6fb633cfca3c9",
         "type": "tabs",
+        "dimension": 35.28481012658228,
         "children": [
           {
             "id": "15372db93bf0a53c",
@@ -134,7 +136,7 @@
       {
         "id": "068fa287a763d2e6",
         "type": "tabs",
-        "dimension": 21.58351409978308,
+        "dimension": 21.583514099783077,
         "children": [
           {
             "id": "543a45933ee21b5e",
@@ -313,8 +315,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Очередь заметок на повторение"
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
             }
           },
           {
@@ -326,14 +328,24 @@
               "icon": "SpacedRepIcon",
               "title": "Очередь заметок на повторение"
             }
+          },
+          {
+            "id": "d29139730048f177",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Очередь заметок на повторение"
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       },
       {
         "id": "3f26bac7af06db4a",
         "type": "tabs",
-        "dimension": 43.16702819956616,
+        "dimension": 43.167028199566154,
         "children": [
           {
             "id": "a02244796c0ec9bb",
@@ -379,7 +391,6 @@
       "audio-recorder:Начать/остановить запись": true,
       "markdown-importer:Импорт Markdown-файлов": true,
       "workspaces:Пространства": true,
-      "obsidian42-brat:BRAT": true,
       "callout-manager:Insert Callout": true,
       "obsidian-excalidraw-plugin:Create new drawing": true,
       "improved-random-note:Open improved random note": true,
@@ -389,12 +400,13 @@
       "obsidian-spaced-repetition:Изучать карточки": true,
       "obsidian-stille:Toggle Stille": true,
       "templater-obsidian:Templater": true,
-      "periodic-notes:Open today": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "a02244796c0ec9bb",
+  "active": "d29139730048f177",
   "lastOpenFiles": [
+    "!Точка входа.md",
     "Инструменты/Словарь тегов.md",
     "Инструменты/Кастомные чекбоксы.md",
     "SlotRPG/!Игра.md",
@@ -403,7 +415,6 @@
     "Архив/Общая идея.md",
     "Тест.md",
     "Шаблоны/Механика.md",
-    "!Точка входа.md",
     "README.md",
     "Инструменты/Cиротки.md",
     "Шаблоны/Инструмент.md",
