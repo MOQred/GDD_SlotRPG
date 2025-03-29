@@ -10,5 +10,6 @@
   "showInlineTitle": false,
   "userIgnoreFilters": [
     "Архив/"
-  ]
+  ],
+  "promptDelete": false
 }
