@@ -1,0 +1,14 @@
+{
+  "defaultViewMode": "preview",
+  "livePreview": false,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_Входящие",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Файлы",
+  "showInlineTitle": false,
+  "userIgnoreFilters": [
+    "Архив/"
+  ]
+}

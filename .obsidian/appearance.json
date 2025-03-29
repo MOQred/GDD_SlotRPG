@@ -1,0 +1,20 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "banner",
+    "canvas-candy",
+    "colored files",
+    "pro-callouts",
+    "MCL Gallery Cards",
+    "MCL Multi Column",
+    "MCL Wide Views",
+    "obsidian-minimal-tweaks",
+    "properties"
+  ],
+  "theme": "obsidian",
+  "interfaceFontFamily": "Mulish",
+  "textFontFamily": "Mulish",
+  "monospaceFontFamily": "JetBrains Mono NL,MonoLisa,GOST type B",
+  "nativeMenus": false
+}
