@@ -4,51 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "dc32bd925b1fa8c3",
-        "type": "split",
+        "id": "8ff96a7074e2c5da",
+        "type": "tabs",
         "children": [
           {
-            "id": "6e17159cde1eb97d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5725e128c01f2965",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Инструменты/Кастомные чекбоксы.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Кастомные чекбоксы"
-                }
-              }
-            ]
-          },
-          {
-            "id": "8ff96a7074e2c5da",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6007888126de979d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "SlotRPG/!Игра.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "!Игра"
-                }
-              }
-            ]
+            "id": "6007888126de979d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SlotRPG/!Игра.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "!Игра"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -382,13 +355,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5725e128c01f2965",
+  "active": "6007888126de979d",
   "lastOpenFiles": [
-    "SlotRPG/!Игра.md",
-    "SlotRPG/Основная концепция и сеттинг/Ссылки на референсы.md",
-    "Инструменты/Кастомные чекбоксы.md",
-    "!Точка входа.md",
     "Инструменты/Словарь тегов.md",
+    "SlotRPG/!Игра.md",
+    "Инструменты/Кастомные чекбоксы.md",
+    "SlotRPG/Основная концепция и сеттинг/Ссылки на референсы.md",
+    "!Точка входа.md",
     "SlotRPG/Основная концепция и сеттинг/Основная концепция и сеттинг.md",
     "Архив/Общая идея.md",
     "Тест.md",
