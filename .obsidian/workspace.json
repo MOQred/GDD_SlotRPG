@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Входящие/Иконки врагов.md",
+                "file": "SlotRPG/!Игра.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Иконки врагов"
+              "title": "!Игра"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Входящие/Pop-Art.md",
-                "mode": "preview",
+                "file": "SlotRPG/!Игра.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Pop-Art"
+              "title": "!Игра"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -305,8 +304,7 @@
               "title": "Очередь заметок на повторение"
             }
           }
-        ],
-        "currentTab": 16
+        ]
       },
       {
         "id": "3f26bac7af06db4a",
@@ -370,23 +368,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "393ccf0746c38bd6",
+  "active": "543a45933ee21b5e",
   "lastOpenFiles": [
     "SlotRPG/!Игра.md",
+    "Инструменты/Словарь тегов.md",
+    "Инструменты/Cиротки.md",
+    "!Точка входа.md",
+    "_Входящие/Графический стиль.md",
+    "_Входящие/Настройки нейросети.md",
     "_Входящие/Иконки врагов.md",
+    "Файлы/Pasted image 20250330035209.png",
     "Шаблоны/Арт.md",
     "Файлы/Pasted image 20250330034620.png",
     "Файлы/Pasted image 20250330034536.png",
     "Файлы/Leonardo_Anime_XL_A_popart_style_concept_illustration_of_a_cun_0.jpg",
     "Файлы/Leonardo_Anime_XL_A_bold_popart_style_fantasy_illustration_of_3.jpg",
     "Файлы/Leonardo_Anime_XL_Popart_style_concept_art_of_a_decaying_zombi_0.jpg",
-    "_Входящие/Pop-Art.md",
-    "Инструменты/Словарь тегов.md",
     "Файлы/Pasted image 20250330032033.png",
     "Файлы/Pasted image 20250330031733.png",
     "Файлы/Pasted image 20250330031646.png",
     "Файлы/Pasted image 20250330031627.png",
-    "Файлы/Pasted image 20250330031541.png",
     "SlotRPG/UI/Pop-Art стиль.md",
     "SlotRPG/UI/Примеры финальных промптов.md",
     "SlotRPG/UI/UI и графический стиль.md",
@@ -401,13 +402,11 @@
     "_Входящие",
     "Инструменты/Кастомные чекбоксы.md",
     "SlotRPG/Основная концепция и сеттинг/Ссылки на референсы.md",
-    "!Точка входа.md",
     "SlotRPG/Основная концепция и сеттинг/Основная концепция и сеттинг.md",
     "Архив/Общая идея.md",
     "Тест.md",
     "Шаблоны/Механика.md",
     "README.md",
-    "Инструменты/Cиротки.md",
     "Визуализация навигации.canvas",
     "Инструменты",
     "Файлы",
