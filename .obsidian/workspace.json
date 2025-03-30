@@ -20,13 +20,7 @@
               "icon": "lucide-file",
               "title": "Арт"
             }
-          }
-        ]
-      },
-      {
-        "id": "99011e1edc6ca7e0",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "21856a2fbac121cc",
             "type": "leaf",
@@ -41,7 +35,8 @@
               "title": "Иконки врагов"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
