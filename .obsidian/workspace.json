@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "21856a2fbac121cc",
+            "id": "393ccf0746c38bd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "!Точка входа"
-            }
-          },
-          {
-            "id": "393ccf0746c38bd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlotRPG/Иконки врагов.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Иконки врагов"
             }
           }
         ]
@@ -101,7 +87,7 @@
       {
         "id": "068fa287a763d2e6",
         "type": "tabs",
-        "dimension": 37.977099236641216,
+        "dimension": 33.771929824561404,
         "children": [
           {
             "id": "543a45933ee21b5e",
@@ -191,146 +177,31 @@
               "icon": "lucide-archive",
               "title": "Все свойства"
             }
-          },
-          {
-            "id": "fa74a2365eb0e904",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
-            }
-          },
-          {
-            "id": "75f5c5cc8dd40ef1",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "!Стартовая страница.md"
-              },
-              "icon": "lucide-info",
-              "title": "Свойства файла для !Стартовая страница"
-            }
-          },
-          {
-            "id": "3994a7ba449326e7",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
-            }
-          },
-          {
-            "id": "d5deb57791b3692d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
-            }
-          },
-          {
-            "id": "1a0cd88e2bddbbeb",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
-            }
-          },
-          {
-            "id": "9917d6f317cfe39a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
-            }
-          },
-          {
-            "id": "23333e1d5ab83e9f",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
-            }
-          },
-          {
-            "id": "30df82284b0bfea6",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
-            }
-          },
-          {
-            "id": "823352705ffd6b8a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
-            }
-          },
-          {
-            "id": "1c974316fdfe2b85",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
-            }
-          },
-          {
-            "id": "d29139730048f177",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
-            }
-          },
-          {
-            "id": "1ea9e66096a7634c",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Очередь заметок на повторение"
-            }
-          },
-          {
-            "id": "1e70fcd6dc9e7e85",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Очередь заметок на повторение"
-            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 5
+      },
+      {
+        "id": "9eb39f12359cd896",
+        "type": "tabs",
+        "dimension": 31.21345029239766,
+        "children": [
+          {
+            "id": "21856a2fbac121cc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
       },
       {
         "id": "67e7e6d714d05231",
         "type": "tabs",
-        "dimension": 62.02290076335878,
+        "dimension": 35.014619883040936,
         "children": [
           {
             "id": "2ccb23f69c3967cd",
@@ -372,24 +243,28 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1e70fcd6dc9e7e85",
+  "active": "9be3e8f99c2ddb92",
   "lastOpenFiles": [
-    "README.md",
-    "SlotRPG/Концепты UI.md",
-    "SlotRPG/Иконки слотов.md",
-    "SlotRPG/!Игра.md",
+    "Шаблоны/Арт.md",
+    "Шаблоны/Базовый.md",
     "SlotRPG/Графический стиль.md",
+    "SlotRPG/Иконки слотов.md",
+    "Шаблоны/Инструмент.md",
+    "Инструменты/Кастомные чекбоксы.md",
+    "Инструменты/Cиротки.md",
+    "SlotRPG/Концепты UI.md",
+    "Шаблоны/Мета.md",
+    "SlotRPG/Иконки врагов.md",
     "!Точка входа.md",
+    "README.md",
+    "SlotRPG/!Игра.md",
     "Файлы/Leonardo_Anime_XL_A_popart_style_fantasy_game_user_interface_c_1.jpg",
     "Файлы/Pasted image 20250330040222.png",
     "Файлы/Pasted image 20250330040145.png",
     "Файлы/Pasted image 20250330040128.png",
-    "SlotRPG/Иконки врагов.md",
     "SlotRPG/Настройки нейросети.md",
     "Инструменты/Словарь тегов.md",
-    "Инструменты/Cиротки.md",
     "Файлы/Pasted image 20250330035209.png",
-    "Шаблоны/Арт.md",
     "Файлы/Pasted image 20250330034620.png",
     "Файлы/Pasted image 20250330034536.png",
     "Файлы/Leonardo_Anime_XL_A_popart_style_concept_illustration_of_a_cun_0.jpg",
@@ -407,10 +282,6 @@
     "SlotRPG/UI/Пример иконки.md",
     "SlotRPG/UI/Пример врага.md",
     "_Входящие",
-    "Инструменты/Кастомные чекбоксы.md",
-    "_Входящие/Основная концепция и сеттинг/Ссылки на референсы.md",
-    "SlotRPG/Основная концепция и сеттинг/Основная концепция и сеттинг.md",
-    "Архив/Общая идея.md",
     "Визуализация навигации.canvas",
     "Инструменты",
     "Файлы",
