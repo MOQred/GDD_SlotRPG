@@ -13,12 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlotRPG/!Игра.md",
-                "mode": "preview",
+                "file": "_Входящие/Pop-Art.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "!Игра"
+              "title": "Pop-Art"
+            }
+          }
+        ]
+      },
+      {
+        "id": "99011e1edc6ca7e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21856a2fbac121cc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -355,11 +371,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9be3e8f99c2ddb92",
+  "active": "6007888126de979d",
   "lastOpenFiles": [
+    "Файлы/Pasted image 20250330031733.png",
+    "Файлы/Pasted image 20250330031646.png",
+    "Файлы/Pasted image 20250330031627.png",
+    "Файлы/Pasted image 20250330031541.png",
+    "SlotRPG/!Игра.md",
+    "_Входящие/Pop-Art.md",
+    "SlotRPG/UI/Pop-Art стиль.md",
+    "SlotRPG/UI/Примеры финальных промптов.md",
+    "SlotRPG/UI/UI и графический стиль.md",
+    "SlotRPG/UI/UI-концепт в Pop-Art.md",
+    "SlotRPG/UI/Генерация врагов и иконок.md",
+    "SlotRPG/Список врагов/Средние враги.md",
+    "SlotRPG/Список врагов/Простые враги.md",
+    "SlotRPG/Список врагов/Боссы.md",
+    "SlotRPG/UI/Пример UI.md",
+    "SlotRPG/UI/Пример иконки.md",
+    "SlotRPG/UI/Пример врага.md",
     "_Входящие",
     "Инструменты/Словарь тегов.md",
-    "SlotRPG/!Игра.md",
     "Инструменты/Кастомные чекбоксы.md",
     "SlotRPG/Основная концепция и сеттинг/Ссылки на референсы.md",
     "!Точка входа.md",
@@ -371,23 +403,11 @@
     "Инструменты/Cиротки.md",
     "Шаблоны/Инструмент.md",
     "Шаблоны/Мета.md",
-    "Шаблоны/Базовый.md",
-    "Инструменты/!Инструменты.md",
     "Визуализация навигации.canvas",
     "Инструменты",
     "Файлы",
     "Шаблоны",
     "Архив",
-    "Изучение Obsidian/Что делать с устаревшими или потерявшими актуальность заметками.md",
-    "Изучение Obsidian/Ускоряем работы в Obsidian с помощью горячих клавиш.md",
-    "Изучение Obsidian/Плагины/Templater.md",
-    "Изучение Obsidian/Список полезных ресурсов.md",
-    "Изучение Obsidian/Словарь тегов.md",
-    "Изучение Obsidian/Примеры запросов Dataview.md",
-    "Изучение Obsidian/Как создать свою систему тегов.md",
-    "Изучение Obsidian/Как построить структуру личной базы знаний.md",
-    "Изучение Obsidian/Как организовать совместную работу с базой.md",
-    "Изучение Obsidian/Как искать информацию в базе.md",
     "Файлы/Таблица синтаксиса Markdown.pdf",
     "Бонус",
     "Файлы/FileRecovery.png",
@@ -397,12 +417,8 @@
     "Файлы/Tasks.png",
     "Файлы/StyleSettings.png",
     "Файлы/Stille.png",
-    "Файлы/SpacedRepetiotion.png",
-    "Файлы/WeekNumber.png",
-    "Файлы/PeriodicNotes.png",
     "Файлы/Шрифты/Mulish.zip",
     "Файлы/Шрифты/Circe.zip",
-    "Файлы/Шрифты/Monolisa.zip",
-    "Файлы/Шрифты/Gost Type B.zip"
+    "Файлы/Шрифты/Monolisa.zip"
   ]
 }
