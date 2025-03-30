@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6007888126de979d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Шаблоны/Арт.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Арт"
-            }
-          },
-          {
             "id": "21856a2fbac121cc",
             "type": "leaf",
             "state": {
@@ -33,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "Иконки врагов"
+            }
+          },
+          {
+            "id": "393ccf0746c38bd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Входящие/Pop-Art.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Pop-Art"
             }
           }
         ],
@@ -370,23 +370,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "21856a2fbac121cc",
+  "active": "393ccf0746c38bd6",
   "lastOpenFiles": [
+    "SlotRPG/!Игра.md",
+    "_Входящие/Иконки врагов.md",
+    "Шаблоны/Арт.md",
     "Файлы/Pasted image 20250330034620.png",
     "Файлы/Pasted image 20250330034536.png",
     "Файлы/Leonardo_Anime_XL_A_popart_style_concept_illustration_of_a_cun_0.jpg",
     "Файлы/Leonardo_Anime_XL_A_bold_popart_style_fantasy_illustration_of_3.jpg",
     "Файлы/Leonardo_Anime_XL_Popart_style_concept_art_of_a_decaying_zombi_0.jpg",
     "_Входящие/Pop-Art.md",
-    "_Входящие/Иконки врагов.md",
-    "Шаблоны/Арт.md",
     "Инструменты/Словарь тегов.md",
     "Файлы/Pasted image 20250330032033.png",
     "Файлы/Pasted image 20250330031733.png",
     "Файлы/Pasted image 20250330031646.png",
     "Файлы/Pasted image 20250330031627.png",
     "Файлы/Pasted image 20250330031541.png",
-    "SlotRPG/!Игра.md",
     "SlotRPG/UI/Pop-Art стиль.md",
     "SlotRPG/UI/Примеры финальных промптов.md",
     "SlotRPG/UI/UI и графический стиль.md",
@@ -415,7 +415,6 @@
     "Архив",
     "Файлы/Таблица синтаксиса Markdown.pdf",
     "Бонус",
-    "Файлы/FileRecovery.png",
     "Файлы/Шрифты/Mulish.zip",
     "Файлы/Шрифты/Circe.zip",
     "Файлы/Шрифты/Monolisa.zip"
