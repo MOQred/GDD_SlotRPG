@@ -1,8 +1,19 @@
-# Created by https://www.toptal.com/developers/gitignore/api/obsidian
-# Edit at https://www.toptal.com/developers/gitignore?templates=obsidian
+# Исключить workspace (индивидуальный для каждого)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
 
-### Obsidian ###
-# config dir
-.obsidian/
+# Исключить визуальные настройки (темы, шрифты, зум и т.п.)
+.obsidian/appearance.json
+.obsidian/app.json
+.obsidian/graph.json
+.obsidian/themes/
 
-# End of https://www.toptal.com/developers/gitignore/api/obsidian
+# Временные файлы
+.obsidian/cache/
+.DS_Store
+Thumbs.db
+
+# Но оставить:
+!.obsidian/plugins/
+!.obsidian/community-plugins.json
+/.obsidian/hotkeys.json
