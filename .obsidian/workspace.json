@@ -290,8 +290,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Очередь заметок на повторение"
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
             }
           },
           {
@@ -300,11 +300,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          },
+          {
+            "id": "1ea9e66096a7634c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Очередь заметок на повторение"
             }
           }
-        ]
+        ],
+        "currentTab": 17
       },
       {
         "id": "67e7e6d714d05231",
@@ -351,7 +362,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "21856a2fbac121cc",
+  "active": "1ea9e66096a7634c",
   "lastOpenFiles": [
     "README.md",
     "SlotRPG/Концепты UI.md",
