@@ -243,8 +243,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9be3e8f99c2ddb92",
+  "active": "393ccf0746c38bd6",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "!Точка входа.md",
+    "_Входящие/комбинации.md",
     "Шаблоны/Арт.md",
     "Шаблоны/Базовый.md",
     "SlotRPG/Графический стиль.md",
@@ -255,7 +258,6 @@
     "SlotRPG/Концепты UI.md",
     "Шаблоны/Мета.md",
     "SlotRPG/Иконки врагов.md",
-    "!Точка входа.md",
     "README.md",
     "SlotRPG/!Игра.md",
     "Файлы/Leonardo_Anime_XL_A_popart_style_fantasy_game_user_interface_c_1.jpg",
@@ -279,8 +281,6 @@
     "_Входящие/Список врагов/Простые враги.md",
     "_Входящие/Список врагов/Боссы.md",
     "SlotRPG/UI/Пример UI.md",
-    "SlotRPG/UI/Пример иконки.md",
-    "SlotRPG/UI/Пример врага.md",
     "_Входящие",
     "Визуализация навигации.canvas",
     "Инструменты",
