@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlotRPG/!Игра.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "!Игра"
+              "title": "README"
             }
           },
           {
@@ -353,12 +353,12 @@
   },
   "active": "21856a2fbac121cc",
   "lastOpenFiles": [
-    "SlotRPG/Графический стиль.md",
+    "SlotRPG/Концепты UI.md",
+    "SlotRPG/Иконки слотов.md",
     "SlotRPG/!Игра.md",
+    "SlotRPG/Графический стиль.md",
     "!Точка входа.md",
-    "_Входящие/Концепты UI.md",
     "Файлы/Leonardo_Anime_XL_A_popart_style_fantasy_game_user_interface_c_1.jpg",
-    "_Входящие/Иконки слотов.md",
     "Файлы/Pasted image 20250330040222.png",
     "Файлы/Pasted image 20250330040145.png",
     "Файлы/Pasted image 20250330040128.png",
@@ -378,15 +378,15 @@
     "SlotRPG/UI/UI и графический стиль.md",
     "SlotRPG/UI/UI-концепт в Pop-Art.md",
     "SlotRPG/UI/Генерация врагов и иконок.md",
-    "SlotRPG/Список врагов/Средние враги.md",
-    "SlotRPG/Список врагов/Простые враги.md",
-    "SlotRPG/Список врагов/Боссы.md",
+    "_Входящие/Список врагов/Средние враги.md",
+    "_Входящие/Список врагов/Простые враги.md",
+    "_Входящие/Список врагов/Боссы.md",
     "SlotRPG/UI/Пример UI.md",
     "SlotRPG/UI/Пример иконки.md",
     "SlotRPG/UI/Пример врага.md",
     "_Входящие",
     "Инструменты/Кастомные чекбоксы.md",
-    "SlotRPG/Основная концепция и сеттинг/Ссылки на референсы.md",
+    "_Входящие/Основная концепция и сеттинг/Ссылки на референсы.md",
     "SlotRPG/Основная концепция и сеттинг/Основная концепция и сеттинг.md",
     "Архив/Общая идея.md",
     "Визуализация навигации.canvas",
