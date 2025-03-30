@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Входящие/Концепты UI.md",
-                "mode": "source",
+                "file": "SlotRPG/!Игра.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Концепты UI"
+              "title": "!Игра"
             }
           },
           {
@@ -354,15 +354,16 @@
   "active": "21856a2fbac121cc",
   "lastOpenFiles": [
     "SlotRPG/Графический стиль.md",
+    "SlotRPG/!Игра.md",
+    "!Точка входа.md",
     "_Входящие/Концепты UI.md",
+    "Файлы/Leonardo_Anime_XL_A_popart_style_fantasy_game_user_interface_c_1.jpg",
     "_Входящие/Иконки слотов.md",
     "Файлы/Pasted image 20250330040222.png",
     "Файлы/Pasted image 20250330040145.png",
     "Файлы/Pasted image 20250330040128.png",
     "SlotRPG/Иконки врагов.md",
-    "SlotRPG/!Игра.md",
     "SlotRPG/Настройки нейросети.md",
-    "!Точка входа.md",
     "Инструменты/Словарь тегов.md",
     "Инструменты/Cиротки.md",
     "Файлы/Pasted image 20250330035209.png",
@@ -372,7 +373,6 @@
     "Файлы/Leonardo_Anime_XL_A_popart_style_concept_illustration_of_a_cun_0.jpg",
     "Файлы/Leonardo_Anime_XL_A_bold_popart_style_fantasy_illustration_of_3.jpg",
     "Файлы/Leonardo_Anime_XL_Popart_style_concept_art_of_a_decaying_zombi_0.jpg",
-    "Файлы/Pasted image 20250330032033.png",
     "SlotRPG/UI/Pop-Art стиль.md",
     "SlotRPG/UI/Примеры финальных промптов.md",
     "SlotRPG/UI/UI и графический стиль.md",
@@ -389,7 +389,6 @@
     "SlotRPG/Основная концепция и сеттинг/Ссылки на референсы.md",
     "SlotRPG/Основная концепция и сеттинг/Основная концепция и сеттинг.md",
     "Архив/Общая идея.md",
-    "Тест.md",
     "Визуализация навигации.canvas",
     "Инструменты",
     "Файлы",
