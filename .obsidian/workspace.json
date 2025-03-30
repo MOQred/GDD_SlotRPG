@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "_Входящие/врагов.md",
+                    "file": "_Входящие/Врагов.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "врагов"
+                  "title": "Врагов"
                 }
               }
             ]
@@ -265,7 +265,7 @@
     "_Входящие/Список врагов/Средние враги.md",
     "_Входящие/Список врагов/Список врагов.md",
     "SlotRPG/!Игра.md",
-    "_Входящие/врагов.md",
+    "_Входящие/Врагов.md",
     "!Точка входа.md",
     "Файлы/Leonardo_Anime_XL_A_bold_popart_style_fantasy_illustration_of_3.jpg",
     "Файлы/Leonardo_Anime_XL_A_popart_style_concept_illustration_of_a_cun_0.jpg",
