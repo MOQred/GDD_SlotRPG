@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Входящие/Pop-Art.md",
+                "file": "Шаблоны/Арт.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Pop-Art"
+              "title": "Арт"
             }
           }
         ]
@@ -31,10 +31,14 @@
             "id": "21856a2fbac121cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_Входящие/Pop-Art.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Pop-Art"
             }
           }
         ]
@@ -373,12 +377,15 @@
   },
   "active": "6007888126de979d",
   "lastOpenFiles": [
+    "_Входящие/Pop-Art.md",
+    "Шаблоны/Арт.md",
+    "Инструменты/Словарь тегов.md",
+    "Файлы/Pasted image 20250330032033.png",
     "Файлы/Pasted image 20250330031733.png",
     "Файлы/Pasted image 20250330031646.png",
     "Файлы/Pasted image 20250330031627.png",
     "Файлы/Pasted image 20250330031541.png",
     "SlotRPG/!Игра.md",
-    "_Входящие/Pop-Art.md",
     "SlotRPG/UI/Pop-Art стиль.md",
     "SlotRPG/UI/Примеры финальных промптов.md",
     "SlotRPG/UI/UI и графический стиль.md",
@@ -391,7 +398,6 @@
     "SlotRPG/UI/Пример иконки.md",
     "SlotRPG/UI/Пример врага.md",
     "_Входящие",
-    "Инструменты/Словарь тегов.md",
     "Инструменты/Кастомные чекбоксы.md",
     "SlotRPG/Основная концепция и сеттинг/Ссылки на референсы.md",
     "!Точка входа.md",
@@ -415,8 +421,6 @@
     "Файлы/TelegramSync.png",
     "Файлы/Templater.png",
     "Файлы/Tasks.png",
-    "Файлы/StyleSettings.png",
-    "Файлы/Stille.png",
     "Файлы/Шрифты/Mulish.zip",
     "Файлы/Шрифты/Circe.zip",
     "Файлы/Шрифты/Monolisa.zip"
