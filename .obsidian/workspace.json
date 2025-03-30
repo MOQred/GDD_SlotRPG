@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlotRPG/!Игра.md",
-                "mode": "preview",
+                "file": "_Входящие/Иконки слотов.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "!Игра"
+              "title": "Иконки слотов"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlotRPG/!Игра.md",
+                "file": "SlotRPG/Иконки врагов.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "!Игра"
+              "title": "Иконки врагов"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +102,7 @@
       {
         "id": "068fa287a763d2e6",
         "type": "tabs",
-        "dimension": 21.583514099783077,
+        "dimension": 37.977099236641216,
         "children": [
           {
             "id": "543a45933ee21b5e",
@@ -307,26 +308,9 @@
         ]
       },
       {
-        "id": "3f26bac7af06db4a",
-        "type": "tabs",
-        "dimension": 43.167028199566154,
-        "children": [
-          {
-            "id": "a02244796c0ec9bb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          }
-        ]
-      },
-      {
         "id": "67e7e6d714d05231",
         "type": "tabs",
-        "dimension": 35.24945770065076,
+        "dimension": 62.02290076335878,
         "children": [
           {
             "id": "2ccb23f69c3967cd",
@@ -342,7 +326,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 714.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -368,15 +352,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "543a45933ee21b5e",
+  "active": "393ccf0746c38bd6",
   "lastOpenFiles": [
     "SlotRPG/!Игра.md",
+    "_Входящие/Иконки слотов.md",
+    "SlotRPG/Графический стиль.md",
+    "SlotRPG/Настройки нейросети.md",
+    "SlotRPG/Иконки врагов.md",
+    "!Точка входа.md",
     "Инструменты/Словарь тегов.md",
     "Инструменты/Cиротки.md",
-    "!Точка входа.md",
-    "_Входящие/Графический стиль.md",
-    "_Входящие/Настройки нейросети.md",
-    "_Входящие/Иконки врагов.md",
     "Файлы/Pasted image 20250330035209.png",
     "Шаблоны/Арт.md",
     "Файлы/Pasted image 20250330034620.png",
@@ -406,7 +391,6 @@
     "Архив/Общая идея.md",
     "Тест.md",
     "Шаблоны/Механика.md",
-    "README.md",
     "Визуализация навигации.canvas",
     "Инструменты",
     "Файлы",
