@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "!Точка входа.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "!Точка входа"
             }
           },
           {
@@ -353,6 +353,7 @@
   },
   "active": "21856a2fbac121cc",
   "lastOpenFiles": [
+    "README.md",
     "SlotRPG/Концепты UI.md",
     "SlotRPG/Иконки слотов.md",
     "SlotRPG/!Игра.md",
