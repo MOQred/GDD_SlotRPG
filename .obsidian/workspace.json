@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a54e7d430d12a934",
+        "id": "0f0f2e797a1e6fc0",
         "type": "split",
         "children": [
           {
             "id": "8ff96a7074e2c5da",
             "type": "tabs",
-            "dimension": 61.15581565471836,
             "children": [
               {
                 "id": "393ccf0746c38bd6",
@@ -18,36 +17,92 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "SlotRPG/Концепты UI.md",
-                    "mode": "preview",
+                    "file": "SlotRPG/Структура боёв.md",
+                    "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Концепты UI"
+                  "title": "Структура боёв"
                 }
               }
             ]
           },
           {
-            "id": "cca4c6a2560ab9eb",
+            "id": "6821baa910ad0453",
             "type": "tabs",
-            "dimension": 38.84418434528164,
             "children": [
               {
-                "id": "d116bf4192184203",
+                "id": "bf745e129baa3a42",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "SlotRPG/Настройки нейросети.md",
-                    "mode": "source",
+                    "file": "_Входящие/Механики и мета-прогресс/Выбор символов.md",
+                    "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Настройки нейросети"
+                  "title": "Выбор символов"
+                }
+              },
+              {
+                "id": "9516fd2562c9edda",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "_Входящие/Механики и мета-прогресс/Мета-прогрессия.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Мета-прогрессия"
+                }
+              },
+              {
+                "id": "476199163b039dc7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "_Входящие/Механики и мета-прогресс/Механики и мета-прогресс.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Механики и мета-прогресс"
+                }
+              },
+              {
+                "id": "3c7f12f59f2e83b4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "_Входящие/Механики и мета-прогресс/Редкость символов.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Редкость символов"
+                }
+              },
+              {
+                "id": "5fd3b168d2d486e6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "_Входящие/Механики и мета-прогресс/Слот-машина как «колода».md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Слот-машина как «колода»"
                 }
               }
-            ]
+            ],
+            "currentTab": 3
           }
         ],
         "direction": "horizontal"
@@ -227,7 +282,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482.5
+    "width": 245.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,10 +309,18 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "393ccf0746c38bd6",
+  "active": "3c7f12f59f2e83b4",
   "lastOpenFiles": [
-    "SlotRPG/Лёгкие враги.md",
+    "_Входящие/Механики и мета-прогресс/Слот-машина как «колода».md",
+    "_Входящие/Механики и мета-прогресс/Редкость символов.md",
+    "_Входящие/Механики и мета-прогресс/Механики и мета-прогресс.md",
+    "_Входящие/Механики и мета-прогресс/Мета-прогрессия.md",
+    "_Входящие/Механики и мета-прогресс/Выбор символов.md",
+    "SlotRPG/Структура боёв.md",
+    "Архив/Общая идея.md",
+    "SlotRPG/!Игра.md",
     "SlotRPG/Концепты UI.md",
+    "SlotRPG/Лёгкие враги.md",
     "SlotRPG/Иконки слотов.md",
     "SlotRPG/Иконки врагов.md",
     "SlotRPG/Графический стиль.md",
@@ -266,7 +329,6 @@
     "SlotRPG/Настройки нейросети.md",
     "SlotRPG/Средние враги.md",
     "README.md",
-    "SlotRPG/!Игра.md",
     "SlotRPG/Боссы.md",
     "SlotRPG/Враги.md",
     "_Входящие/Игровая структура и бои/Типы боёв.md",
@@ -275,7 +337,6 @@
     "_Входящие/Игровая структура и бои/Количество боёв.md",
     "_Входящие/Игровая структура и бои/Игровая структура и бои.md",
     "_Входящие/Основная концепция и сеттинг/Ссылки на референсы.md",
-    "_Входящие/Список врагов/Список врагов.md",
     "Файлы/Leonardo_Anime_XL_A_bold_popart_style_fantasy_illustration_of_3.jpg",
     "Файлы/Leonardo_Anime_XL_A_popart_style_concept_illustration_of_a_cun_0.jpg",
     "Файлы/Leonardo_Anime_XL_A_popart_style_fantasy_game_user_interface_c_1.jpg",
@@ -286,12 +347,6 @@
     "Файлы/Pasted image 20250330031733.png",
     "Файлы/Pasted image 20250330034536.png",
     "Файлы/Pasted image 20250330034620.png",
-    "Шаблоны/Арт.md",
-    "Шаблоны/Механика.md",
-    "Шаблоны/Мета.md",
-    "Инструменты/Кастомные чекбоксы.md",
-    "Шаблоны/Инструмент.md",
-    "Инструменты/Словарь тегов.md",
     "_Входящие",
     "Визуализация навигации.canvas",
     "Инструменты",
