@@ -313,9 +313,19 @@
               "icon": "SpacedRepIcon",
               "title": "Очередь заметок на повторение"
             }
+          },
+          {
+            "id": "1e70fcd6dc9e7e85",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Очередь заметок на повторение"
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       },
       {
         "id": "67e7e6d714d05231",
@@ -362,7 +372,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1ea9e66096a7634c",
+  "active": "1e70fcd6dc9e7e85",
   "lastOpenFiles": [
     "README.md",
     "SlotRPG/Концепты UI.md",
