@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "SlotRPG/Боссы.md",
-                    "mode": "source",
+                    "file": "Инструменты/Cиротки.md",
+                    "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Боссы"
+                  "title": "Cиротки"
                 }
               }
             ]
@@ -39,12 +39,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "SlotRPG/Лёгкие враги.md",
+                    "file": "SlotRPG/Настройки нейросети.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Лёгкие враги"
+                  "title": "Настройки нейросети"
                 }
               }
             ]
@@ -256,20 +256,25 @@
   },
   "active": "393ccf0746c38bd6",
   "lastOpenFiles": [
-    "SlotRPG/Средние враги.md",
-    "SlotRPG/Боссы.md",
+    "!Точка входа.md",
+    "Инструменты/Cиротки.md",
+    "SlotRPG/Настройки нейросети.md",
     "SlotRPG/Лёгкие враги.md",
+    "SlotRPG/Средние враги.md",
+    "README.md",
+    "SlotRPG/!Игра.md",
+    "SlotRPG/Боссы.md",
     "SlotRPG/Враги.md",
-    "_Входящие/Игровая структура и бои/Типы боёв.md",
     "SlotRPG/Графический стиль.md",
+    "SlotRPG/Иконки врагов.md",
+    "SlotRPG/Иконки слотов.md",
+    "_Входящие/Игровая структура и бои/Типы боёв.md",
     "_Входящие/Игровая структура и бои/Структура первой арки.md",
     "_Входящие/Игровая структура и бои/Структура второй арки.md",
     "_Входящие/Игровая структура и бои/Количество боёв.md",
     "_Входящие/Игровая структура и бои/Игровая структура и бои.md",
     "_Входящие/Основная концепция и сеттинг/Ссылки на референсы.md",
     "_Входящие/Список врагов/Список врагов.md",
-    "SlotRPG/!Игра.md",
-    "!Точка входа.md",
     "Файлы/Leonardo_Anime_XL_A_bold_popart_style_fantasy_illustration_of_3.jpg",
     "Файлы/Leonardo_Anime_XL_A_popart_style_concept_illustration_of_a_cun_0.jpg",
     "Файлы/Leonardo_Anime_XL_A_popart_style_fantasy_game_user_interface_c_1.jpg",
@@ -281,17 +286,12 @@
     "Файлы/Pasted image 20250330034536.png",
     "Файлы/Pasted image 20250330034620.png",
     "SlotRPG/Концепты UI.md",
-    "SlotRPG/Иконки слотов.md",
-    "SlotRPG/Иконки врагов.md",
     "Шаблоны/Арт.md",
     "Шаблоны/Механика.md",
     "Шаблоны/Мета.md",
-    "Инструменты/Cиротки.md",
     "Инструменты/Кастомные чекбоксы.md",
     "Шаблоны/Инструмент.md",
     "Инструменты/Словарь тегов.md",
-    "_Входящие/комбинации.md",
-    "_Входящие/Монетизация.md",
     "_Входящие",
     "Визуализация навигации.canvas",
     "Инструменты",
