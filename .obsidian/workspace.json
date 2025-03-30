@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlotRPG/!Игра.md",
+                "file": "SlotRPG/Концепты UI.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "!Игра"
+              "title": "Концепты UI"
             }
           }
         ]
@@ -46,7 +46,13 @@
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "12e10a4939c32cfd",
+        "type": "tabs",
+        "children": [
           {
             "id": "142855578b7fde1d",
             "type": "leaf",
@@ -62,16 +68,6 @@
               },
               "icon": "lucide-search",
               "title": "Поиск"
-            }
-          },
-          {
-            "id": "4e27db6aa5fb0bca",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Закладки"
             }
           }
         ]
@@ -150,21 +146,6 @@
             }
           },
           {
-            "id": "1f7e7c529bcac942",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "!Стартовая страница.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Структура !Стартовая страница"
-            }
-          },
-          {
             "id": "6294f54606d7130f",
             "type": "leaf",
             "state": {
@@ -179,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "9eb39f12359cd896",
@@ -217,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 714.5
+    "width": 616.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,30 +224,31 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "393ccf0746c38bd6",
+  "active": "9be3e8f99c2ddb92",
   "lastOpenFiles": [
+    "SlotRPG/Иконки слотов.md",
+    "SlotRPG/Иконки врагов.md",
+    "SlotRPG/Графический стиль.md",
+    "Шаблоны/Арт.md",
+    "Шаблоны/Механика.md",
+    "SlotRPG/!Игра.md",
+    "Шаблоны/Мета.md",
+    "Инструменты/Cиротки.md",
+    "Инструменты/Кастомные чекбоксы.md",
+    "Шаблоны/Инструмент.md",
+    "Инструменты/Словарь тегов.md",
     "_Входящие/комбинации.md",
     "_Входящие/Монетизация.md",
     "!Точка входа.md",
     "conflict-files-obsidian-git.md",
-    "Шаблоны/Арт.md",
     "Шаблоны/Базовый.md",
-    "SlotRPG/Графический стиль.md",
-    "SlotRPG/Иконки слотов.md",
-    "Шаблоны/Инструмент.md",
-    "Инструменты/Кастомные чекбоксы.md",
-    "Инструменты/Cиротки.md",
     "SlotRPG/Концепты UI.md",
-    "Шаблоны/Мета.md",
-    "SlotRPG/Иконки врагов.md",
     "README.md",
-    "SlotRPG/!Игра.md",
     "Файлы/Leonardo_Anime_XL_A_popart_style_fantasy_game_user_interface_c_1.jpg",
     "Файлы/Pasted image 20250330040222.png",
     "Файлы/Pasted image 20250330040145.png",
     "Файлы/Pasted image 20250330040128.png",
     "SlotRPG/Настройки нейросети.md",
-    "Инструменты/Словарь тегов.md",
     "Файлы/Pasted image 20250330035209.png",
     "Файлы/Pasted image 20250330034620.png",
     "Файлы/Pasted image 20250330034536.png",
@@ -280,7 +262,6 @@
     "SlotRPG/UI/Генерация врагов и иконок.md",
     "_Входящие/Список врагов/Средние враги.md",
     "_Входящие/Список врагов/Простые враги.md",
-    "_Входящие/Список врагов/Боссы.md",
     "_Входящие",
     "Визуализация навигации.canvas",
     "Инструменты",

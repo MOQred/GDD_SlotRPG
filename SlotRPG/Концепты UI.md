@@ -6,7 +6,7 @@ aliases:
   - Цвета
 tags:
   - статус/🌱
-  - 💅
+  - раздел/💅
 ---
 ![[Leonardo_Anime_XL_A_popart_style_fantasy_game_user_interface_c_1.jpg]]
 
