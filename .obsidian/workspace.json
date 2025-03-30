@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "8ff96a7074e2c5da",
-        "type": "tabs",
+        "id": "a54e7d430d12a934",
+        "type": "split",
         "children": [
           {
-            "id": "393ccf0746c38bd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlotRPG/Концепты UI.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Концепты UI"
-            }
+            "id": "8ff96a7074e2c5da",
+            "type": "tabs",
+            "dimension": 46.856725146198826,
+            "children": [
+              {
+                "id": "393ccf0746c38bd6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "_Входящие/врагов.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "врагов"
+                }
+              }
+            ]
+          },
+          {
+            "id": "cca4c6a2560ab9eb",
+            "type": "tabs",
+            "dimension": 53.143274853801174,
+            "children": [
+              {
+                "id": "d116bf4192184203",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "_Входящие/Список врагов/Средние враги.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Средние враги"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -198,7 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 616.5
+    "width": 482.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,17 +250,32 @@
       "obsidian-stille:Toggle Stille": true,
       "templater-obsidian:Templater": true,
       "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
   "active": "9be3e8f99c2ddb92",
   "lastOpenFiles": [
+    "_Входящие/Список врагов/Список врагов.md",
+    "SlotRPG/!Игра.md",
+    "_Входящие/врагов.md",
+    "!Точка входа.md",
+    "Файлы/Leonardo_Anime_XL_A_bold_popart_style_fantasy_illustration_of_3.jpg",
+    "Файлы/Leonardo_Anime_XL_A_popart_style_concept_illustration_of_a_cun_0.jpg",
+    "Файлы/Leonardo_Anime_XL_A_popart_style_fantasy_game_user_interface_c_1.jpg",
+    "Файлы/Leonardo_Anime_XL_Popart_style_concept_art_of_a_decaying_zombi_0.jpg",
+    "Файлы/Pasted image 20250330031541.png",
+    "Файлы/Pasted image 20250330031627.png",
+    "Файлы/Pasted image 20250330031646.png",
+    "Файлы/Pasted image 20250330031733.png",
+    "Файлы/Pasted image 20250330034536.png",
+    "Файлы/Pasted image 20250330034620.png",
+    "SlotRPG/Концепты UI.md",
     "SlotRPG/Иконки слотов.md",
     "SlotRPG/Иконки врагов.md",
     "SlotRPG/Графический стиль.md",
     "Шаблоны/Арт.md",
     "Шаблоны/Механика.md",
-    "SlotRPG/!Игра.md",
     "Шаблоны/Мета.md",
     "Инструменты/Cиротки.md",
     "Инструменты/Кастомные чекбоксы.md",
@@ -239,29 +283,15 @@
     "Инструменты/Словарь тегов.md",
     "_Входящие/комбинации.md",
     "_Входящие/Монетизация.md",
-    "!Точка входа.md",
     "conflict-files-obsidian-git.md",
     "Шаблоны/Базовый.md",
-    "SlotRPG/Концепты UI.md",
     "README.md",
-    "Файлы/Leonardo_Anime_XL_A_popart_style_fantasy_game_user_interface_c_1.jpg",
-    "Файлы/Pasted image 20250330040222.png",
-    "Файлы/Pasted image 20250330040145.png",
-    "Файлы/Pasted image 20250330040128.png",
     "SlotRPG/Настройки нейросети.md",
-    "Файлы/Pasted image 20250330035209.png",
-    "Файлы/Pasted image 20250330034620.png",
-    "Файлы/Pasted image 20250330034536.png",
-    "Файлы/Leonardo_Anime_XL_A_popart_style_concept_illustration_of_a_cun_0.jpg",
-    "Файлы/Leonardo_Anime_XL_A_bold_popart_style_fantasy_illustration_of_3.jpg",
-    "Файлы/Leonardo_Anime_XL_Popart_style_concept_art_of_a_decaying_zombi_0.jpg",
     "SlotRPG/UI/Pop-Art стиль.md",
     "SlotRPG/UI/Примеры финальных промптов.md",
     "SlotRPG/UI/UI и графический стиль.md",
     "SlotRPG/UI/UI-концепт в Pop-Art.md",
     "SlotRPG/UI/Генерация врагов и иконок.md",
-    "_Входящие/Список врагов/Средние враги.md",
-    "_Входящие/Список врагов/Простые враги.md",
     "_Входящие",
     "Визуализация навигации.canvas",
     "Инструменты",
