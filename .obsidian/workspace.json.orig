@@ -1,0 +1,311 @@
+{
+  "main": {
+    "id": "63e67e4d6e186390",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ff96a7074e2c5da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "393ccf0746c38bd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "!Точка входа.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "!Точка входа"
+            }
+          },
+          {
+            "id": "0581990b07732fef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "16e7f107e410a305",
+    "type": "split",
+    "children": [
+      {
+        "id": "567b0991b039c662",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9be3e8f99c2ddb92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "142855578b7fde1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "4e27db6aa5fb0bca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb76d60cb32bf146",
+    "type": "split",
+    "children": [
+      {
+        "id": "068fa287a763d2e6",
+        "type": "tabs",
+        "dimension": 33.771929824561404,
+        "children": [
+          {
+            "id": "543a45933ee21b5e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "dc3fef835365fafa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Изучение Obsidian/Ускоряем работы в Obsidian с помощью горячих клавиш.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Ускоряем работы в Obsidian с помощью горячих клавиш"
+            }
+          },
+          {
+            "id": "c43831d99a1d2ccc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Изучение Obsidian/Ускоряем работы в Obsidian с помощью горячих клавиш.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Ускоряем работы в Obsidian с помощью горячих клавиш"
+            }
+          },
+          {
+            "id": "473b71a5f37512c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "1f7e7c529bcac942",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "!Стартовая страница.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура !Стартовая страница"
+            }
+          },
+          {
+            "id": "6294f54606d7130f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "9eb39f12359cd896",
+        "type": "tabs",
+        "dimension": 31.21345029239766,
+        "children": [
+          {
+            "id": "21856a2fbac121cc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      },
+      {
+        "id": "67e7e6d714d05231",
+        "type": "tabs",
+        "dimension": 35.014619883040936,
+        "children": [
+          {
+            "id": "2ccb23f69c3967cd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 714.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": true,
+      "daily-notes:Сегодняшняя заметка": true,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "audio-recorder:Начать/остановить запись": true,
+      "markdown-importer:Импорт Markdown-файлов": true,
+      "workspaces:Пространства": true,
+      "callout-manager:Insert Callout": true,
+      "obsidian-excalidraw-plugin:Create new drawing": true,
+      "improved-random-note:Open improved random note": true,
+      "obsidian-kanban:Создать новую доску": true,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": true,
+      "omnisearch:Omnisearch": false,
+      "obsidian-spaced-repetition:Изучать карточки": true,
+      "obsidian-stille:Toggle Stille": true,
+      "templater-obsidian:Templater": true,
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "0581990b07732fef",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "!Точка входа.md",
+    "_Входящие/комбинации.md",
+    "Шаблоны/Арт.md",
+    "Шаблоны/Базовый.md",
+    "SlotRPG/Графический стиль.md",
+    "SlotRPG/Иконки слотов.md",
+    "Шаблоны/Инструмент.md",
+    "Инструменты/Кастомные чекбоксы.md",
+    "Инструменты/Cиротки.md",
+    "SlotRPG/Концепты UI.md",
+    "Шаблоны/Мета.md",
+    "SlotRPG/Иконки врагов.md",
+    "README.md",
+    "SlotRPG/!Игра.md",
+    "Файлы/Leonardo_Anime_XL_A_popart_style_fantasy_game_user_interface_c_1.jpg",
+    "Файлы/Pasted image 20250330040222.png",
+    "Файлы/Pasted image 20250330040145.png",
+    "Файлы/Pasted image 20250330040128.png",
+    "SlotRPG/Настройки нейросети.md",
+    "Инструменты/Словарь тегов.md",
+    "Файлы/Pasted image 20250330035209.png",
+    "Файлы/Pasted image 20250330034620.png",
+    "Файлы/Pasted image 20250330034536.png",
+    "Файлы/Leonardo_Anime_XL_A_popart_style_concept_illustration_of_a_cun_0.jpg",
+    "Файлы/Leonardo_Anime_XL_A_bold_popart_style_fantasy_illustration_of_3.jpg",
+    "Файлы/Leonardo_Anime_XL_Popart_style_concept_art_of_a_decaying_zombi_0.jpg",
+    "SlotRPG/UI/Pop-Art стиль.md",
+    "SlotRPG/UI/Примеры финальных промптов.md",
+    "SlotRPG/UI/UI и графический стиль.md",
+    "SlotRPG/UI/UI-концепт в Pop-Art.md",
+    "SlotRPG/UI/Генерация врагов и иконок.md",
+    "_Входящие/Список врагов/Средние враги.md",
+    "_Входящие/Список врагов/Простые враги.md",
+    "_Входящие/Список врагов/Боссы.md",
+    "SlotRPG/UI/Пример UI.md",
+    "_Входящие",
+    "Визуализация навигации.canvas",
+    "Инструменты",
+    "Файлы",
+    "Шаблоны",
+    "Архив",
+    "Файлы/Таблица синтаксиса Markdown.pdf",
+    "Бонус",
+    "Файлы/Шрифты/Mulish.zip",
+    "Файлы/Шрифты/Circe.zip",
+    "Файлы/Шрифты/Monolisa.zip"
+  ]
+}
