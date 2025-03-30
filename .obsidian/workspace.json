@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Входящие/Pop-Art.md",
+                "file": "_Входящие/Иконки врагов.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Pop-Art"
+              "title": "Иконки врагов"
             }
           }
         ]
@@ -377,8 +377,12 @@
   },
   "active": "21856a2fbac121cc",
   "lastOpenFiles": [
-    "Шаблоны/Арт.md",
+    "Файлы/Leonardo_Anime_XL_A_popart_style_concept_illustration_of_a_cun_0.jpg",
+    "Файлы/Leonardo_Anime_XL_A_bold_popart_style_fantasy_illustration_of_3.jpg",
+    "Файлы/Leonardo_Anime_XL_Popart_style_concept_art_of_a_decaying_zombi_0.jpg",
     "_Входящие/Pop-Art.md",
+    "_Входящие/Иконки врагов.md",
+    "Шаблоны/Арт.md",
     "Инструменты/Словарь тегов.md",
     "Файлы/Pasted image 20250330032033.png",
     "Файлы/Pasted image 20250330031733.png",
@@ -407,8 +411,6 @@
     "Шаблоны/Механика.md",
     "README.md",
     "Инструменты/Cиротки.md",
-    "Шаблоны/Инструмент.md",
-    "Шаблоны/Мета.md",
     "Визуализация навигации.canvas",
     "Инструменты",
     "Файлы",
@@ -419,8 +421,6 @@
     "Файлы/FileRecovery.png",
     "Файлы/Excluded.png",
     "Файлы/TelegramSync.png",
-    "Файлы/Templater.png",
-    "Файлы/Tasks.png",
     "Файлы/Шрифты/Mulish.zip",
     "Файлы/Шрифты/Circe.zip",
     "Файлы/Шрифты/Monolisa.zip"
