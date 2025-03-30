@@ -6,7 +6,6 @@
       {
         "id": "dc32bd925b1fa8c3",
         "type": "split",
-        "dimension": 64.71518987341773,
         "children": [
           {
             "id": "6e17159cde1eb97d",
@@ -19,7 +18,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Инструменты/Кастомные чекбоксы.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
@@ -38,39 +37,18 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "SlotRPG/Основная концепция и сеттинг/Ссылки на референсы.md",
+                    "file": "SlotRPG/!Игра.md",
                     "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Ссылки на референсы"
+                  "title": "!Игра"
                 }
               }
             ]
           }
         ],
         "direction": "horizontal"
-      },
-      {
-        "id": "50e6fb633cfca3c9",
-        "type": "tabs",
-        "dimension": 35.28481012658228,
-        "children": [
-          {
-            "id": "15372db93bf0a53c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Инструменты/Словарь тегов.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Словарь тегов"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -404,13 +382,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d29139730048f177",
+  "active": "5725e128c01f2965",
   "lastOpenFiles": [
-    "!Точка входа.md",
-    "Инструменты/Словарь тегов.md",
-    "Инструменты/Кастомные чекбоксы.md",
     "SlotRPG/!Игра.md",
     "SlotRPG/Основная концепция и сеттинг/Ссылки на референсы.md",
+    "Инструменты/Кастомные чекбоксы.md",
+    "!Точка входа.md",
+    "Инструменты/Словарь тегов.md",
     "SlotRPG/Основная концепция и сеттинг/Основная концепция и сеттинг.md",
     "Архив/Общая идея.md",
     "Тест.md",
