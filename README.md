@@ -49,4 +49,4 @@
 # 📧 Контакты и данные
 *  Email: moqred@gmail.com
 *  Telegram: @MOQred
-*  [Резюме](https://disk.yandex.ru/i/rOFlEUv0nspn6g)
+*  [Резюме](https://disk.yandex.ru/d/vWeFtHvo0KuRvg)
