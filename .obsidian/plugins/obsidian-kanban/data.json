@@ -1,8 +1,0 @@
-{
-  "move-tags": true,
-  "move-dates": true,
-  "date-format": "YYYYMMDD",
-  "time-format": "HH:mm",
-  "date-display-format": "YYYYMMDD",
-  "date-picker-week-start": 1
-}
