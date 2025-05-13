@@ -51,4 +51,4 @@ By default, macOS hides folders that start with a dot (`.`), which may lead to e
 # 📧 Contacts
 *  Email: moqred@gmail.com  
 *  Telegram: [@MOQred](https://t.me/MOQred)  
-*  [Resume](https://disk.yandex.ru/i/rOFlEUv0nspn6g)
+*  [Resume](https://disk.yandex.ru/d/vWeFtHvo0KuRvg)
