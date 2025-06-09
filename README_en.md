@@ -32,18 +32,24 @@ By default, macOS hides folders that start with a dot (`.`), which may lead to e
 
 ### ✅ Solutions
 <details>
+  
 <summary>Method 1: Full reset (recommended)</summary>
+
 1.  Delete the entire vault folder (the one with duplicate `.obsidian` folders).  
 2.  Re-clone the repository.  
 3.  Only then open the folder in Obsidian.
+   
 </details>
 
 <details>
+  
 <summary>Method 2: Manual fix</summary>
+
 1.  Close Obsidian.  
 2.  Delete the local `.obsidian` folder.  
 3.  Rename `.obsidian2` to `.obsidian`.  
 4.  Reopen the vault in Obsidian.
+   
 </details>
 
 ---
